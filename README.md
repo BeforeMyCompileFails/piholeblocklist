@@ -6,7 +6,7 @@ This list joins multiple ads blocklist into one. Why you ask? I was lazy and did
 
 Direct link to the list can be located here:
 
- - [MAIN LIST](https://linktotxtfile)
+ - [MAIN LIST](https://raw.githubusercontent.com/BeforeMyCompileFails/piholeblocklist/main/adsblocker.txt)
 
 ## Contribute
 
