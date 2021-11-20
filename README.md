@@ -6,7 +6,7 @@ This list joins multiple ads blocklist into one. Why you ask? I was lazy and did
 
 Direct link to the list can be located here:
 
- - [MAIN LIST](https://ewpratten.retrylife.ca/youtube_ad_blocklist/hosts.ipv4.txt)
+ - [MAIN LIST](https://linktotxtfile)
 
 ## Contribute
 
